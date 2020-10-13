@@ -25,7 +25,7 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
+<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
 
 </p>
 
@@ -36,6 +36,13 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
     <a href="https://www.instagram.com/uzumaki_nagato_tenshou/" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-30302f?style=plastic&logo=instagram" /></a>
     <a href="https://twitter.com/NFR__UNT"><img src="https://img.shields.io/badge/NFR_UNT-30302f?style=social&logo=twitter" /></a>
     <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-30302f?style=plastic&logo=facebook" /></a>
+</p>
+
+### If you interest on my calculus book you can find info on
+<p>
+    <a href="https://linktr.ee/meongmeongproject" target="blank"><img src="https://img.shields.io/badge/linktr_meongmeongproject-30302f?style=plastic" /></a>
+    <a href="https://www.instagram.com/meongmeongproject/" target="blank"><img src="https://img.shields.io/badge/meongmeongproject-30302f?style=plastic&logo=instagram" /></a>
+    <a href="https://www.tokopedia.com/meongmeongproject"><img src="https://img.shields.io/badge/tokped_meongmeongproject-30302f?style=plastic" /></a>
 </p>
 
 <!--

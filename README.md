@@ -42,7 +42,7 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 <p>
     <a href="https://linktr.ee/meongmeongproject" target="blank"><img src="https://img.shields.io/badge/linktr_meongmeongproject-30302f?style=plastic" /></a>
     <a href="https://www.instagram.com/meongmeongproject/" target="blank"><img src="https://img.shields.io/badge/meongmeongproject-30302f?style=plastic&logo=instagram" /></a>
-    <a href="https://www.tokopedia.com/meongmeongproject"><img src="https://img.shields.io/badge/tokped_meongmeongproject-30302f?style=plastic" /></a>
+    <a href="https://www.tokopedia.com/meongmeongproject"><img src="https://img.shields.io/endpoint?url="https://ecs7.tokopedia.net/assets-about-frontend/master/img/Tokopedia_Mascot-36c1015eabb66a26893edeb227db71e0.png"&style=plastic" /></a>
 </p>
 
 <!--

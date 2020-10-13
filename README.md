@@ -13,17 +13,18 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently studying on collage </br>
-    - 🌱 I’m currently learning Data Science </br>
-    - 👯 I’m in love with Mathematics, Data Science, Statistics and Actuaries </br>
+    - 🔭 I’m currently studying on collage as a Master Student. </br>
+    - 🌱 I’m currently learning about Data Science. </br>
+    - 👯 I’m in love with Mathematics, Data Science, Statistics and Actuaries. </br>
     - 🤔 I’m also love Calculus, if you interest too you can check my book in <a href="https://linktr.ee/meongmeongproject">Meong Meong Project</a> or check below.  </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:wisnuadipradana17@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
+    - 📫 How to reach me: <a href="mailto:wisnuadipradana17@yahoo.com">Email me!</a>.  </br>
+    - 😄 Pronouns: He/Him. </br>
     - ⚡ Fun fact: I have a Melancholy personality based on classification from Florence J. L.  </br>
 </details>
+
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=compact" height=180 />
 </p>
 

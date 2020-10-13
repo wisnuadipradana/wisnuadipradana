@@ -35,6 +35,7 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
     <a href="https://www.linkedin.com/in/dimaz-wisnu-adipradana-16049460/" target="blank"><img src="https://img.shields.io/badge/Dimaz_Wisnu-30302f?style=plastic&logo=linkedin" /></a>
     <a href="https://www.instagram.com/uzumaki_nagato_tenshou/" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-30302f?style=plastic&logo=instagram" /></a>
     <a href="https://twitter.com/NFR__UNT"><img src="https://img.shields.io/badge/NFR_UNT-30302f?style=social&logo=twitter" /></a>
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&style=social">
     <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-30302f?style=plastic&logo=facebook" /></a>
 </p>
 

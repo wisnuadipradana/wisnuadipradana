@@ -5,9 +5,9 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 <p>
     <img src="https://img.shields.io/badge/Latex-black?&logo=latex" />
     <img src="https://img.shields.io/badge/Python-blue?&logo=python" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Wolfram-red?&logo=" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
+    <img src="https://gpvc.arturio.dev/wisnuadipradana" />
 </p>
 
 ### Stats:
@@ -25,7 +25,7 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venansiusrt&layout=demo" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
 
 </p>
 

@@ -24,9 +24,11 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 </details>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=venansiusrt&show_icons=true&theme=radical&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venansiusrt&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venansiusrt&layout=demo" height=180 />
+
 </p>
+
 
 ### Let's connect!
 <p>

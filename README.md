@@ -25,7 +25,7 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />
-<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
 
 </p>
 

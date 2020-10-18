@@ -26,7 +26,6 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
-
 </p>
 
 
@@ -34,8 +33,10 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 <p>
     <a href="https://www.linkedin.com/in/dimaz-wisnu-adipradana-16049460/" target="blank"><img src="https://img.shields.io/badge/Dimaz_Wisnu-30302f?style=social&logo=linkedin" /></a>
     <a href="https://www.instagram.com/uzumaki_nagato_tenshou/" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-30302f?style=social&logo=instagram" /></a>
+    <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-30302f?style=social&logo=facebook" /></a>
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&style=social">
     <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-30302f?style=social&logo=facebook" /></a>
+    <object data="https://img.shields.io/twitter/follow/shields_io?label=Follow&amp;style=social"></object>
 </p>
 
 ### If you interest on my calculus book you can find info on

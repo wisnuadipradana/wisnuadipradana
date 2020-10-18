@@ -7,6 +7,7 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
     <img src="https://img.shields.io/badge/Python-blue?&logo=python" />
     <img src="https://img.shields.io/badge/Wolfram-red?&logo=" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://camo.githubusercontent.com/e98406712f214d048844389b6ee6f64a5c4b6b6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742532304f66666963652d4438334230313f6c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&amp;logoColor=white" style="max-width:100%;">
     <img src="https://gpvc.arturio.dev/wisnuadipradana" />
 </p>
 
@@ -47,8 +48,10 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 <!--
 **wisnuadipradana/Wisnu-D.-Uzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <object data="https://img.shields.io/github/forks/badges/shields?label=Fork&amp;style=social"></object>
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&style=social">
 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&style=social">
+    
+ <a href="https://www.instagram.com/uzumaki_nagato_tenshou/" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-30302f?style=social&logo=instagram" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

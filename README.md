@@ -34,9 +34,7 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
     <a href="https://www.linkedin.com/in/dimaz-wisnu-adipradana-16049460/" target="blank"><img src="https://img.shields.io/badge/Dimaz_Wisnu-30302f?style=social&logo=linkedin" /></a>
     <a href="https://www.instagram.com/uzumaki_nagato_tenshou/" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-30302f?style=social&logo=instagram" /></a>
     <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-30302f?style=social&logo=facebook" /></a>
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&style=social">
-    <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-30302f?style=social&logo=facebook" /></a>
-    <object data="https://img.shields.io/twitter/follow/shields_io?label=Follow&amp;style=social"></object>
+    <a href="https://twitter.com/NFR_UNT" target="blank"><img src="https://img.shields.io/twitter/follow/shields_io?label=NFR_UNT&amp;style=social&logo=twitter" /></a>
 </p>
 
 ### If you interest on my calculus book you can find info on
@@ -48,6 +46,8 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
 
 <!--
 **wisnuadipradana/Wisnu-D.-Uzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&style=social">
 
 Here are some ideas to get you started:
 

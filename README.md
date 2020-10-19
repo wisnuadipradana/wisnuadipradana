@@ -1,5 +1,5 @@
 # Hello there 👋, I'm Uzu!
-I am currently studying at ITB as a Master Degree Student from Math Departement batch year 2019 with NIM 20119014. 
+My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master Degree Student from Math Departement batch year 2019 with NIM 20119014. 
 
 ### Tools:
 <p>
@@ -22,6 +22,7 @@ I am currently studying at ITB as a Master Degree Student from Math Departement 
     - 📫 How to reach me: <a href="mailto:wisnuadipradana17@yahoo.com">Email me!</a>.  </br>
     - 😄 Pronouns: He/Him. </br>
     - ⚡ Fun fact: I have a Melancholy personality based on classification from Florence J. L.  </br>
+    - ✨ My Favorite Formula: \( \displaystyle \int_{0}^{1} \frac{1}{x^{x}} \text{ d}x = \sum_{n=1}^{\infty} \frac{1}{n^{n}}\)
 </details>
 
 <p>

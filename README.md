@@ -9,7 +9,6 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 <img src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/intel-core%20i7%2008th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
-    <img src="https://camo.githubusercontent.com/aa2253f76dfceeebb87c2d2b05c73f5327264318/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e76696469612d677478253230313635302d2532333736423930302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e7669646961266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/NVIDIA-GEFORCE%20MX150-%2376B900.svg?&amp;style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/NVIDIA-GEFORCE%20MX150-%2376B900.svg?&amp;style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" style="max-width:100%;">
 </p>
 

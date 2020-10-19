@@ -6,10 +6,10 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 " My workspace specs "
 <br>
 <br>
-<img src="https://camo.githubusercontent.com/16c3acef99f15846cb5ad3593ef908d0528e3996/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77696e646f77732d2532333030373844362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width:100%;">
-    <img data-canonical-src="https://img.shields.io/badge/intel-core%20i7%2007th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width:100%;">
-    <img src="https://camo.githubusercontent.com/b83dc85987b27ab22f62a5cc4aaf75d190cce80c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d313647422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
-    <img src="https://camo.githubusercontent.com/aa2253f76dfceeebb87c2d2b05c73f5327264318/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e76696469612d677478253230313635302d2532333736423930302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e7669646961266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/NVIDIA-GEFORCE_MX150-%2376B900.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
+<img src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/intel-core%20i7%2008th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/NVIDIA-GEFORCE_MX150-%2376B900.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
 </p>
 
 ### Tools:

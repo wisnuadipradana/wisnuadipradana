@@ -42,7 +42,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 ### If you interest on my calculus book you can find info on
 <p>
     <a href="https://linktr.ee/meongmeongproject" target="blank"><img src="https://img.shields.io/badge/linktr-30302f?style=plastic" /></a>
-    <a href="https://www.instagram.com/meongmeongproject/" target="blank"><img src="https://img.shields.io/badge/meong-meong_project-30302f?style=social&logo=instagram" /></a>
+    <a href="https://www.instagram.com/meongmeongproject/" target="blank"><img src="https://img.shields.io/badge/meong_meong_project-30302f?style=social&logo=instagram" /></a>
     <a href="https://www.tokopedia.com/meongmeongproject"><img src="https://img.shields.io/badge/Tokopedia-25D366?&style=for-the-badge&logo=tokopedia&amp;logoColor=white" style="max-width:80%" /></a>
 </p>
 

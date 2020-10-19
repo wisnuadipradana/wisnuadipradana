@@ -22,7 +22,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     - 📫 How to reach me: <a href="mailto:wisnuadipradana17@yahoo.com">Email me!</a>.  </br>
     - 😄 Pronouns: He/Him. </br>
     - ⚡ Fun fact: I have a Melancholy personality based on classification from Florence J. L.  </br>
-    - ✨ My Favorite Formula: ![formula](https://render.githubusercontent.com/render/math?math=\displaystyle \int_{0}^{1} \frac{1}{x^{x}} \text{ d}x = \sum_{n=1}^{\infty} \frac{1}{n^{n}})
+    - ✨ My Favorite Formula: <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \int_{0}^{1} \frac{1}{x^{x}} \text{ d}x = \sum_{n=1}^{\infty} \frac{1}{n^{n}}">
 </details>
 
 <p>

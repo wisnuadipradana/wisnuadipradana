@@ -17,6 +17,8 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <img src="https://img.shields.io/badge/Latex-black?&logo=latex" />
     <img src="https://img.shields.io/badge/Python-blue?&logo=python" />
     <img src="https://img.shields.io/badge/Wolfram-red?&logo=" />
+    <img src="https://camo.githubusercontent.com/3adc9c1d5c71ca844c613436de985c0409fa22cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230457863656c2d3231373334363f6c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
+    <img src="https://camo.githubusercontent.com/29504b8d9053fa035b3d08f2dd47f07ac4a762c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3138313731373f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Github-181717?logo=github&amp;logoColor=white" style="max-width:100%;">
     <img src="https://camo.githubusercontent.com/e98406712f214d048844389b6ee6f64a5c4b6b6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742532304f66666963652d4438334230313f6c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&amp;logoColor=white" style="max-width:100%">
     <img src="https://gpvc.arturio.dev/wisnuadipradana" />
 </p>

@@ -50,7 +50,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-%231877F2.svg?style=social&logo=facebook" /></a>
     <a href="https://twitter.com/NFR_UNT" target="blank"><img src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&amp;style=social&logo=twitter" /></a>
     <a href="https://github.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana-181717?logo=github&amp;logoColor=white" style="max-width:100%;">
-    <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
+    <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack_uzumaki_nagato_tenshou-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
 </p>
 
 ### If you interest on my calculus book you can find info on

@@ -38,6 +38,8 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />
+    <br>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
 </p>
 

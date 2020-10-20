@@ -15,7 +15,8 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Latex-black?&logo=latex" />
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python" />
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Wolfram-red?&logo=" />
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
     <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&amp;logoColor=white" style="max-width:100%">
@@ -55,6 +56,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://twitter.com/NFR_UNT" target="blank"><img src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&amp;style=social&logo=twitter" /></a>
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
     <a href="https://github.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana-181717?logo=github&amp;logoColor=white" style="max-width:100%;">
+    <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" >
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge">
@@ -71,7 +73,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 <p>
     <a href="https://linktr.ee/meongmeongproject" target="blank"><img src="https://img.shields.io/badge/linktr-30302f?style=plastic" /></a>
     <a href="https://www.instagram.com/meongmeongproject/" target="blank"><img src="https://img.shields.io/badge/meong_meong_project-30302f?style=social&logo=instagram" /></a>
-    <a href="https://www.tokopedia.com/meongmeongproject"><img src="https://img.shields.io/badge/Tokopedia-25D366?&style=for-the-badge&logo=tokopedia&amp;logoColor=white" style="max-width:80%" /></a>
+    <a href="https://www.tokopedia.com/meongmeongproject"><img src="https://img.shields.io/badge/Tokopedia-25D366?&logo=tokopedia&amp;logoColor=white" style="max-width:100%" /></a>
 </p>
 
 

@@ -14,8 +14,9 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/Latex-black?&logo=latex" />
+    <img src="https://img.shields.io/badge/Latex-%23008080.svg?&logo=latex&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Wolfram-red?&logo=" />
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
@@ -58,7 +59,6 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://github.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana-181717?logo=github&amp;logoColor=white" style="max-width:100%;">
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" >
-    <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge">
     <a href="https://us04web.zoom.us/profile" target="blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" >
     <a href="https://medium.com/@wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" >    

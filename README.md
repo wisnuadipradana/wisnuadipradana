@@ -18,7 +18,8 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Wolfram-red?&logo=" />
+    <img src="https://img.shields.io/badge/Wolfram-%23DD1100?&logo=Wolfram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&amp;logoColor=white" style="max-width:100%;"> 
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
     <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&amp;logoColor=white" style="max-width:100%">
     <img src="https://gpvc.arturio.dev/wisnuadipradana" />

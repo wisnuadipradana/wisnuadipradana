@@ -1,9 +1,9 @@
-# Hello there 👋, I'm Uzu!
+# Kon'nichiwa minasan! 👋, I’m Uzu!
 My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master Degree Student from Math Departement batch year 2019 with NIM 20119014. 
 
 <p align="center">
 <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
-" My workspace specs "
+" My workspace spesification "
 <br>
 <br>
 <img src="https://img.shields.io/badge/windows%2010-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width:100%;">
@@ -44,6 +44,9 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 </p>
 
 
+
+
+
 ### Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/wisnuDuzu/" target="blank"><img src="https://img.shields.io/badge/Dimaz_Wisnu-%230077B5.svg?style=social&logo=linkedin" /></a>
@@ -53,7 +56,14 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://github.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana-181717?logo=github&amp;logoColor=white" style="max-width:100%;">
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack_uzumaki_nagato_tenshou-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
+    <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge" style="max-width:100%;">
+    <a href="https://us04web.zoom.us/profile" target="blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" style="max-width:100%;">
 </p>
+
+
+https://teams.microsoft.com/
+
+
 
 ### If you interest on my calculus book you can find info on
 <p>

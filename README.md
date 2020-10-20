@@ -15,7 +15,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Latex-black?&logo=latex" />
-    <img src="https://img.shields.io/badge/Python-blue?&logo=python" />
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python" />
     <img src="https://img.shields.io/badge/Wolfram-red?&logo=" />
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
     <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&amp;logoColor=white" style="max-width:100%">
@@ -60,6 +60,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge">
     <a href="https://us04web.zoom.us/profile" target="blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" >
     <a href="https://medium.com/@wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" >    
+    <a href="http://tenshou17.blogspot.com/" target="blank"><img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" >   
 </p>
 
 

@@ -61,9 +61,8 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://www.instagram.com/uzumaki_nagato_tenshou/" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-30302f?style=social&logo=instagram" /></a>
     <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-%231877F2.svg?style=social&logo=facebook" /></a>
     <a href="https://twitter.com/NFR_UNT" target="blank"><img src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&amp;style=social&logo=twitter" /></a>
-    <img src="https://img.shields.io/github/followers/wisnuadipradana?label=GitHub&amp;style=social" style="max-width:100%;">
+    <img src="https://img.shields.io/github/followers/wisnuadipradana?label=GitHub-wisnuadipradana&amp;style=social" style="max-width:100%;">
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
-    <a href="https://github.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana-181717?logo=github&amp;logoColor=white" style="max-width:100%;">
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" >
     <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge">
@@ -91,6 +90,8 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 <!--
 **wisnuadipradana/Wisnu-D.-Uzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <object data="https://img.shields.io/github/forks/badges/shields?label=Fork&amp;style=social"></object>
+
+    <a href="https://github.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana-181717?logo=github&amp;logoColor=white" style="max-width:100%;">
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&style=social">
     

@@ -53,7 +53,11 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
     <br>
     <br>
-    
+    <a href="https://github.com/wisnuadipradana/Wisnu_D._Uzu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wisnuadipradana&repo=Wisnu_D._Uzu" />
+    </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisnuadipradana" />
+    </a>
 </p>
 
 
@@ -70,7 +74,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" >
-    <a href="https://www.hackerrank.com/Wisnu_D_Uzu" target="blank"><img src="https://img.shields.io/badge/HackerRank-%2320BEFF.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" >
+    <a href="https://www.hackerrank.com/Wisnu_D_Uzu" target="blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" >
     <a href="https://www.kaggle.com/wisnuadipradanauzu" target="blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" >
     <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge">
     <a href="https://us04web.zoom.us/profile" target="blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" >

@@ -10,6 +10,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <img src="https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/NVIDIA-GEFORCE%20MX150-%2376B900.svg?&amp;style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/Android_Pie-3DDC84.svg?&amp;style=for-the-badge&amp;logo=android&amp;logoColor=white" style="max-width:100%;">
 </p>
 
 ### Tools:
@@ -18,6 +19,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/r-%23276DC3.svg?&logo=r&logoColor=white" />
     <img src="https://img.shields.io/badge/Wolfram-%23DD1100?&logo=Wolfram&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&amp;logoColor=white" style="max-width:100%;"> 
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
@@ -50,7 +52,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 
 
 
-### Let's connect!
+### Let's connect with my social media!
 <p>
     <a href="https://www.linkedin.com/in/wisnuDuzu/" target="blank"><img src="https://img.shields.io/badge/Dimaz_Wisnu-%230077B5.svg?style=social&logo=linkedin" /></a>
     <a href="https://www.instagram.com/uzumaki_nagato_tenshou/" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-30302f?style=social&logo=instagram" /></a>

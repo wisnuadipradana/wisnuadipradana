@@ -48,16 +48,13 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 ### Stats Overview:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />
-    <br>
-    <br>
+    </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
-    <br>
-    <br>
+    </a>
     <a href="https://github.com/wisnuadipradana/Wisnu_D._Uzu">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wisnuadipradana&repo=Wisnu_D._Uzu" />
     </a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisnuadipradana" />
-    </a>
+    <img alt="willianrod's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisnuadipradana" style="max-width:100%;">
 </p>
 
 
@@ -103,6 +100,9 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 <object data="https://img.shields.io/github/forks/badges/shields?label=Fork&amp;style=social"></object>
 
     <a href="https://github.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana-181717?logo=github&amp;logoColor=white" style="max-width:100%;">
+    
+    <a href="https://github.com/wisnuadipradana/Wisnu_D._Uzu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisnuadipradana" />
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&style=social">
     

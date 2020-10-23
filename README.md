@@ -1,4 +1,4 @@
-# Kon'nichiwa minasan! 👋, I’m Uzu!
+# Kon'nichiwa minasan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="47px" style="max-width:100%;">, I’m Uzu!
 My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master Degree Student from Math Departement batch year 2019 with NIM 20119014. 
 
 <p align="center">
@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...👋
 -->
 
 

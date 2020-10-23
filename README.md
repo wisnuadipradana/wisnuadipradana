@@ -71,11 +71,11 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-%231877F2.svg?style=social&logo=facebook" /></a>
     <a href="https://twitter.com/NFR_UNT" target="blank"><img src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&amp;style=social&logo=twitter" /></a>
     <a href="http://line.me/ti/p/~uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/@uzumakinagatotenshou-%2300C300.svg?style=social&logo=line" /></a>
-    <a href="https://t.me/uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-%232CA5E0.svg?style=social&logo=Telegram" /></a>
+    <a href="https://t.me/uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-%232CA5E0.svg?style=social&logo=telegram" /></a>
     <a href="https://m.me/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou
--%2300B2FF.svg?style=social&logo=Messenger" /></a>
+-%2300B2FF.svg?style=social&logo=messenger&amp&logoColor=white" /></a>
     <a href="https://ask.fm/zerefacnologiasora" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana(uzu)
--%23DB3552.svg?style=social&logo=askfm" /></a>
+-%23DB3552.svg?style=social&logo=askfm&amp&logoColor=white" /></a>
     <img src="https://img.shields.io/github/followers/wisnuadipradana?label=wisnuadipradana&amp;style=social" style="max-width:100%;">
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&amp;logoColor=white" style="max-width:100%;">

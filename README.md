@@ -48,11 +48,14 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 ### Stats Overview:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />
+    <br>
     </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
+    <br>
     </a>
     <a href="https://github.com/wisnuadipradana/Wisnu_D._Uzu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wisnuadipradana&repo=Wisnu_D._Uzu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wisnuadipradana&repo=Wisnu_D._Uzu" />    
+    <br>
     </a>
     <img alt="willianrod's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisnuadipradana" style="max-width:100%;">
 </p>
@@ -68,7 +71,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://web.facebook.com/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-%231877F2.svg?style=social&logo=facebook" /></a>
     <a href="https://twitter.com/NFR_UNT" target="blank"><img src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&amp;style=social&logo=twitter" /></a>
     <a href="http://line.me/ti/p/~uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/@uzumakinagatotenshou-%2300C300.svg?style=social&logo=line" /></a>
-     <a href="https://t.me/uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-%232CA5E0.svg?style=social&logo=telegram" /></a>
+    <a href="https://t.me/uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-%232CA5E0.svg?style=social&logo=telegram" /></a>
     <a href="https://m.me/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou
 -%2300B2FF.svg?style=social&logo=messenger" /></a>
     <a href="https://ask.fm/zerefacnologiasora" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana(uzu)

@@ -69,9 +69,13 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://twitter.com/NFR_UNT" target="blank"><img src="https://img.shields.io/twitter/follow/NFR_UNT?label=NFR_UNT&amp;style=social&logo=twitter" /></a>
     <a href="http://line.me/ti/p/~uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/@uzumakinagatotenshou-%2300C300.svg?style=social&logo=line" /></a>
      <a href="https://t.me/uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-%232CA5E0.svg?style=social&logo=telegram" /></a>
+    <a href="https://m.me/nagazitou" target="blank"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou
+-%2300B2FF.svg?style=social&logo=messenger" /></a>
+    <a href="https://ask.fm/zerefacnologiasora" target="blank"><img src="https://img.shields.io/badge/wisnuadipradana(uzu)
+-%23DB3552.svg?style=social&logo=askfm" /></a>
     <img src="https://img.shields.io/github/followers/wisnuadipradana?label=wisnuadipradana&amp;style=social" style="max-width:100%;">
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
-    <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&amp;logoColor=white" style="max-width:100%;">
+    <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" >
     <a href="https://www.hackerrank.com/Wisnu_D_Uzu" target="blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" >
     <a href="https://www.kaggle.com/wisnuadipradanauzu" target="blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" >
@@ -115,7 +119,8 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 
    <img src="https://camo.githubusercontent.com/3adc9c1d5c71ca844c613436de985c0409fa22cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230457863656c2d3231373334363f6c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
     <img src="https://camo.githubusercontent.com/e98406712f214d048844389b6ee6f64a5c4b6b6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742532304f66666963652d4438334230313f6c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&amp;logoColor=white" style="max-width:100%">
- 
+
+    Thank you for motivation to join DSC ITB
  
 Here are some ideas to get you started:
 
@@ -130,4 +135,4 @@ Here are some ideas to get you started:
 -->
 
 
-Thank you for motivation to join DSC ITB
+

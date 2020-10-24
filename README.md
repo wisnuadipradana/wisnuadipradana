@@ -78,6 +78,9 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://t.me/uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-%232CA5E0.svg?style=social&logo=telegram" /></a>
     <a href="https://m.me/nagazitou"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-00B2FF?&style=social&logo=messenger" /></a>
     <a href="https://ask.fm/zerefacnologiasora"><img src="https://img.shields.io/badge/wisnuadipradana(uzu)-DB3552?&style=social&logo=askfm" /></a>
+<!--    
+    <a href="https://brilliant.org/profile/uzumaki%20nagato%20tenshou-hdxlk1/#_=_" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Brilliant_Logo.svg/240px-Brilliant_Logo.svg.png?" style="max-width:100%;"></a> 
+-->
     <img src="https://img.shields.io/github/followers/wisnuadipradana?label=wisnuadipradana&amp;style=social" style="max-width:100%;">
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&amp;logoColor=white" style="max-width:100%;">

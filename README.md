@@ -17,12 +17,16 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
 <p>
     <img src="https://img.shields.io/badge/LaTex-%23008080.svg?&logo=latex&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit%20learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/R-%23276DC3.svg?&logo=r&logoColor=white" />
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/Wolfram-%23DD1100?&logo=Wolfram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-%23F37626?&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&amp;logoColor=white" style="max-width:100%">
     <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&amp;logoColor=white" style="max-width:100%;"> 
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  

@@ -89,7 +89,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://www.kaggle.com/wisnuadipradanauzu" target="blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" >
     <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge">
     <a href="https://us04web.zoom.us/profile" target="blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" >
-    <a href="https://medium.com/@wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" >    
+    <a href="https://medium.com/@wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" >      
     <a href="http://tenshou17.blogspot.com/" target="blank"><img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" >   
 </p>
 

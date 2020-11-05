@@ -92,7 +92,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://medium.com/@wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" >      
     <a href="http://tenshou17.blogspot.com/" target="blank"><img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" >   
 </p>
-
+    
 
 
 
@@ -104,7 +104,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://www.tokopedia.com/meongmeongproject"><img src="https://img.shields.io/badge/Tokopedia-25D366?&logo=tokopedia&amp;logoColor=white" style="max-width:100%" /></a>
 </p>
 
-
+   
 
 
 

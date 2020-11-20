@@ -78,6 +78,7 @@ My real name is Dimaz Wisnu Adipradana and currently studying at ITB as a Master
     <a href="https://t.me/uzumakinagatotenshou" target="blank"><img src="https://img.shields.io/badge/Wisnu_D._Uzu-%232CA5E0.svg?style=social&logo=telegram" /></a>
     <a href="https://m.me/nagazitou"><img src="https://img.shields.io/badge/uzumaki_nagato_tenshou-00B2FF?&style=social&logo=messenger" /></a>
     <a href="https://ask.fm/zerefacnologiasora"><img src="https://img.shields.io/badge/wisnuadipradana(uzu)-DB3552?&style=social&logo=askfm" /></a>
+    <a href="https://wa.me/6287714339258"><img src="https://img.shields.io/badge/wisnuadipradana(uzu)-25D366?&style=social&logo=whatsapp" /></a>
 <!--    
     <a href="https://brilliant.org/profile/uzumaki%20nagato%20tenshou-hdxlk1/#_=_" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Brilliant_Logo.svg/240px-Brilliant_Logo.svg.png?" style="max-width:100%;"></a> 
 -->

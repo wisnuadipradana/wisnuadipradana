@@ -58,11 +58,13 @@ My name is Wisnu D.Uzu and currently studying at ITB as a Master Degree Student 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
     <br>
     </a>
+    <!--  
     <a href="https://github.com/wisnuadipradana/wisnuadipradana">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wisnuadipradana&repo=wisnuadipradana" />    
     <br>
     </a>
     <img alt="willianrod's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wisnuadipradana" style="max-width:100%;">
+    -->
 </p>
 
 

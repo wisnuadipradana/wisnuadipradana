@@ -37,7 +37,7 @@ My name is Wisnu D.Uzu and currently studying at ITB as a Master Degree Student 
 ### FAQ about me:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently studying on collage as a Master Student. </br>
+    - 🔭 I’m working at Ruangguru as Master Teacher Assessment K-12 Academics Mathematics. </br>
     - 🌱 I’m currently learning about Data Science. </br>
     - 👯 I’m in love with Mathematics, Data Science, Statistics and Actuaries. </br>
     - 🤔 I’m also love Calculus, if you interest too you can check my book in <a href="https://linktr.ee/meongmeongproject">Meong Meong Project</a> or check below.  </br>

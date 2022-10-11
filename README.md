@@ -31,8 +31,9 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
     <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&amp;logoColor=white" style="max-width:100%;"> 
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
     <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&amp;logoColor=white" style="max-width:100%">
-    <img src="https://gpvc.arturio.dev/wisnuadipradana" />
 </p>
+
+<img src="https://gpvc.arturio.dev/wisnuadipradana" />
 
 ### FAQ about me:
 <details>

@@ -38,15 +38,15 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
 ### FAQ about me:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m working at Ruangguru as Master Teacher Assessment K-12 Academics Mathematics. </br>
+    - 🔭 Last working at Ruangguru as Master Teacher Assessment K-12 Academics Mathematics. </br>
     - 🌱 I’m currently learning about Data Science. </br>
     - 👯 I’m in love with Mathematics, Data Science, Statistics and Actuaries. </br>
     - 🤔 I’m also love Calculus, if you interest too you can check my book in <a href="https://linktr.ee/meongmeongproject">Meong Meong Project</a> or check below.  </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:wisnuadipradana17@yahoo.com">Email me!</a>.  </br>
+    - 📫 How to reach me: <a href="mailto:wisnuadipradana@gmail.com">Email me!</a>.  </br>
     - 😄 Pronouns: He/Him. </br>
     - ⚡ Fun fact: I have a Melancholy personality based on classification from Florence J. L.  </br>
-    - ✨ My Favorite Formula: <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \int_{0}^{1} \frac{1}{x^{x}} \text{ d}x = \sum_{n=1}^{\infty} \frac{1}{n^{n}}">  </br>
+    - ✨ My Favorite Formula: <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \int_{0}^{1} \frac{1}{x^{x}} \text{ d}x = \sum_{n=1}^{\infty} \frac{1}{n^{n}}" style="opacity:0">  </br>
     - 👋 Favorite Quote: Just be the best version of yourself✨  </br>
 </details>
 
@@ -88,6 +88,8 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
 -->
     <img src="https://img.shields.io/github/followers/wisnuadipradana?label=wisnuadipradana&amp;style=social" style="max-width:100%;">
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
+    <a href="https://tlx.toki.id/profiles/uzumaki_nagato">
+  <img src="https://user-images.githubusercontent.com/49567907/195177940-9271a26b-dc8b-498b-ad54-8da1499e5334.png" width="20px" /></a>
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" >
     <a href="https://www.hackerrank.com/Wisnu_D_Uzu" target="blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" >

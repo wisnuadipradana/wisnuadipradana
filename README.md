@@ -1,5 +1,5 @@
 # Kon'nichiwa minasan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="47px" style="max-width:100%;">, I’m Uzu!
-My name is Wisnu D.Uzu and currently studying at ITB as a Master Degree Student from Math Departement as well as being the chairman of batch year 2019. 
+My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math Departement as well as being the chairman of batch year 2019 and last work on Ruangguru as Master Teacher Assessment Mathematics. 
 
 <p align="center">
 <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>

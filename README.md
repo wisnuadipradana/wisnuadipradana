@@ -85,8 +85,8 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
     <a href="https://wa.me/6287714339258"><img src="https://img.shields.io/badge/wisnuadipradana(uzu)-25D366?&style=social&logo=whatsapp" /></a>
     <img src="https://img.shields.io/github/followers/wisnuadipradana?label=wisnuadipradana&amp;style=social" style="max-width:100%;">
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
-    <a href="https://brilliant.org/profile/uzumaki%20nagato%20tenshou-hdxlk1/#_=_" target="blank"><img src="![Brilliant](https://user-images.githubusercontent.com/49567907/195407684-64919fc8-026a-4d38-8ad9-912da5cfcfaf.png)" style="max-width:100%;"></a> 
-    <a href="https://tlx.toki.id/profiles/uzumaki_nagato"><img src="https://user-images.githubusercontent.com/49567907/195177940-9271a26b-dc8b-498b-ad54-8da1499e5334.png" width="20px" /></a>
+    <a href="https://brilliant.org/profile/uzumaki%20nagato%20tenshou-hdxlk1/#_=_" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxr6_-Qq4bH8E-a3FFQ1qChoTMxsrP9LeX6p2sXs7xJ9CUoAFw-DAiiJeX8MfBfBKjnA&usqp=CAU" width="50px"></a> 
+    <a href="https://tlx.toki.id/profiles/uzumaki_nagato"><img src="https://user-images.githubusercontent.com/49567907/195177940-9271a26b-dc8b-498b-ad54-8da1499e5334.png" width="30px" /></a>
     <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&amp;logoColor=white" style="max-width:100%;">
     <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" >
     <a href="https://www.hackerrank.com/Wisnu_D_Uzu" target="blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" >

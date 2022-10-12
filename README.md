@@ -49,7 +49,7 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
     - 📫 How to reach me: <a href="mailto:wisnuadipradana@gmail.com">Email me!</a>.  </br>
     - 😄 Pronouns: He/Him. </br>
     - ⚡ Fun fact: I have a Melancholy personality based on classification from Florence J. L.  </br>
-    - ✨ My Favorite Formula: <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \int_{0}^{1} \frac{1}{x^{x}} \text{ d}x = \sum_{n=1}^{\infty} \frac{1}{n^{n}}" style="background-color:red;padding:20px;">  </br>
+    - ✨ My Favorite Formula: <img src="https://latex.codecogs.com/png.image?\inline&space;\large&space;\dpi{150}\bg{blue}\displaystyle&space;\int_{0}^{1}&space;\frac{1}{x^{x}}&space;\text{&space;d}x&space;=&space;\sum_{n=1}^{\infty}&space;\frac{1}{n^{n}}" title="https://latex.codecogs.com/png.image?\inline \large \dpi{150}\bg{blue}\displaystyle \int_{0}^{1} \frac{1}{x^{x}} \text{ d}x = \sum_{n=1}^{\infty} \frac{1}{n^{n}}" />  </br>
     - 👋 Favorite Quote: Just be the best version of yourself✨  </br>
 </details>
 

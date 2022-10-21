@@ -6,12 +6,11 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
 " My workspace spesification "
 <br>
 <br>
-    <img src="https://img.shields.io/badge/Asus_Vivobook_S14-000080.svg?&amp;style=for-the-badge&amp;logo=asus&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/Vivobook_S14-000080.svg?&amp;style=for-the-badge&amp;logo=asus&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/Windows%2010-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width:100%;">
-    <img src="https://img.shields.io/badge/Intel-Core%20i7%208th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/Core%20i7%208th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/NVIDIA-GEFORCE%20MX150-%2376B900.svg?&amp;style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" style="max-width:100%;">
-    <br>
     <img src="https://img.shields.io/badge/Xiaomi 11T-%23FF6900.svg?&amp;style=for-the-badge&amp;logo=xiaomi&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/Android_12-3DDC84.svg?&amp;style=for-the-badge&amp;logo=android&amp;logoColor=white" style="max-width:100%;">
 </p>

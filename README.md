@@ -1,5 +1,11 @@
 # Minasan kon'nichiwa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="47px" style="max-width:100%;">, I'm Uzu!
+
+<p align="center"><b>Actuarial Science Lecturer • Mathematics • Data Science • Python • Machine Learning</b></p>
+
+<!-- Old bio (kept for history, replaced by the updated paragraph below):
 My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math Departement as well as being the chairman of batch year 2019 and last work on Ruangguru as Master Teacher Assessment Mathematics (09/22). 
+-->
+My name is Wisnu D.Uzu. I graduated from ITB as a Master's Degree student in the Mathematics Department (also served as chairman of the 2019 batch), and previously worked at Ruangguru as Master Teacher Assessment Mathematics. I'm now a Lecturer in Actuarial Science at ITS, with interests in mathematics, statistics, data science, machine learning, scientific computing, and actuarial modeling. I enjoy turning mathematical ideas into practical solutions through code, research, and teaching.
 
 <p align="center">
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px" alt="computer" />
@@ -14,6 +20,15 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
     <img src="https://img.shields.io/badge/Samsung%20A56-1428A0.svg?&amp;style=for-the-badge&amp;logo=samsung&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/Android_15-3DDC84.svg?&amp;style=for-the-badge&amp;logo=android&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/One%20UI-8.5-1428A0.svg?&amp;style=for-the-badge&amp;logo=samsung&amp;logoColor=white" style="max-width:100%;">
+</p>
+
+### Current Focus:
+<p align="center">
+  <img src="https://img.shields.io/badge/Actuarial%20Science-0F62FE?style=for-the-badge&logo=readme&logoColor=white" alt="Actuarial Science" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=matrix&logoColor=white" alt="Statistics" />
 </p>
 
 ### Tools:
@@ -34,6 +49,24 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
     <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&amp;logoColor=white" style="max-width:100%;"> 
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&amp;logoColor=white" style="max-width:100%;">  
     <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&amp;logoColor=white" style="max-width:100%">
+</p>
+
+### About Me:
+<ul>
+  <li>🎓 M.Sc. in Mathematics, Institut Teknologi Bandung</li>
+  <li>👨‍🏫 Lecturer at Department of Actuarial Science, ITS</li>
+  <li>📚 Mathematics olympiad and calculus enthusiast</li>
+  <li>💻 Python developer for education, automation, and analysis</li>
+  <li>📊 Interested in statistics, machine learning, and actuarial modeling</li>
+  <li>✍️ Author of calculus learning materials</li>
+</ul>
+
+### Favorite Formula:
+<p align="center">
+  <img src="https://latex.codecogs.com/png.image?\inline&space;\large&space;\dpi{110}\bg{blue}\displaystyle&space;\int_{0}^{1}&space;\frac{1}{x^{x}}&space;\text{d}x&space;=&space;\sum_{n=1}^{\infty}&space;\frac{1}{n^{n}}" alt="Favorite formula" />
+</p>
+<p align="center">
+  One of my favorite identities because it connects analysis and infinite series beautifully.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=wisnuadipradana&label=Profile%20views&color=0e75b6&style=flat" alt="wisnuadipradana" />
@@ -74,6 +107,14 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
 
 
 
+
+### Featured Projects:
+<ul>
+  <li><a href="#" target="_blank">Insurance Claim Severity Prediction</a></li>
+  <li><a href="#" target="_blank">Premium Pricing Optimization</a></li>
+  <li><a href="#" target="_blank">Monte Carlo Simulation Tools</a></li>
+  <li><a href="#" target="_blank">Educational Python &amp; Mathematics Utilities</a></li>
+</ul>
 
 ### Let's connect with my social media!
 <p>

@@ -1,18 +1,19 @@
-# Minasan kon'nichiwa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="47px" style="max-width:100%;">, I’m Uzu!
+# Minasan kon'nichiwa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="47px" style="max-width:100%;">, I'm Uzu!
 My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math Departement as well as being the chairman of batch year 2019 and last work on Ruangguru as Master Teacher Assessment Mathematics (09/22). 
 
 <p align="center">
-<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px" alt="computer" />
 " My workspace spesification "
 <br>
 <br>
     <img src="https://img.shields.io/badge/Vivobook_S14-000080.svg?&amp;style=for-the-badge&amp;logo=asus&amp;logoColor=white" style="max-width:100%;">
-    <img src="https://img.shields.io/badge/Windows%2010-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?&amp;style=for-the-badge&amp;logo=windows11&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/Core%20i7%208th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" style="max-width:100%;">
-    <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;">
     <img src="https://img.shields.io/badge/NVIDIA-GEFORCE%20MX150-%2376B900.svg?&amp;style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" style="max-width:100%;">
-    <img src="https://img.shields.io/badge/Xiaomi 11T-%23FF6900.svg?&amp;style=for-the-badge&amp;logo=xiaomi&amp;logoColor=white" style="max-width:100%;">
-    <img src="https://img.shields.io/badge/Android_12-3DDC84.svg?&amp;style=for-the-badge&amp;logo=android&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/Samsung%20A56-1428A0.svg?&amp;style=for-the-badge&amp;logo=samsung&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/Android_15-3DDC84.svg?&amp;style=for-the-badge&amp;logo=android&amp;logoColor=white" style="max-width:100%;">
+    <img src="https://img.shields.io/badge/One%20UI-8.5-1428A0.svg?&amp;style=for-the-badge&amp;logo=samsung&amp;logoColor=white" style="max-width:100%;">
 </p>
 
 ### Tools:
@@ -35,15 +36,15 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
     <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&amp;logoColor=white" style="max-width:100%">
 </p>
 
-<img src="https://gpvc.arturio.dev/wisnuadipradana" />
+<img src="https://komarev.com/ghpvc/?username=wisnuadipradana&label=Profile%20views&color=0e75b6&style=flat" alt="wisnuadipradana" />
 
 ### FAQ about me:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 Last working at Ruangguru as Master Teacher Assessment K-12 Academics Mathematics. </br>
-    - 🌱 I’m currently learning about Data Science. </br>
-    - 👯 I’m in love with Mathematics, Data Science, Statistics and Actuaries. </br>
-    - 🤔 I’m also love Calculus, if you interest too you can check my book in <a href="https://linktr.ee/meongmeongproject">Meong Meong Project</a> or check below.  </br>
+    - 🌱 I'm currently learning about Data Science. </br>
+    - 👯 I'm in love with Mathematics, Data Science, Statistics and Actuaries. </br>
+    - 🤔 I'm also love Calculus, if you interest too you can check my book in <a href="https://linktr.ee/meongmeongproject">Meong Meong Project</a> or check below.  </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:wisnuadipradana@gmail.com">Email me!</a>.  </br>
     - 😄 Pronouns: He/Him. </br>
@@ -55,10 +56,10 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
 
 ### Stats Overview:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" />  
+    <img src="https://github-readme-stats.vercel.app/api?username=wisnuadipradana&show_icons=true&theme=radical&hide_border=false" alt="wisnuadipradana's GitHub stats" />  
     <br>
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisnuadipradana&layout=demo" alt="wisnuadipradana's top languages" />
     <br>
     </a>
     <!--  
@@ -89,14 +90,14 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
     <img src="https://img.shields.io/discord/308323056592486420?label=Chat&amp;link=https%3A%2F%2Fdiscord.gg%2FHjJCwm5&amp;logo=discord&amp;style=social" >
     <a href="https://brilliant.org/profile/uzumaki%20nagato%20tenshou-hdxlk1/#_=_" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxr6_-Qq4bH8E-a3FFQ1qChoTMxsrP9LeX6p2sXs7xJ9CUoAFw-DAiiJeX8MfBfBKjnA&usqp=CAU" width="50px"></a> 
     <a href="https://tlx.toki.id/profiles/uzumaki_nagato" target="blank"><img src="https://user-images.githubusercontent.com/49567907/195177940-9271a26b-dc8b-498b-ad54-8da1499e5334.png" width="30px" /></a>
-    <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&amp;logoColor=white" style="max-width:100%;">
-    <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" >
-    <a href="https://www.hackerrank.com/Wisnu_D_Uzu" target="blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" >
-    <a href="https://www.kaggle.com/wisnuadipradanauzu" target="blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" >
-    <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge">
-    <a href="https://us04web.zoom.us/profile" target="blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" >
-    <a href="https://medium.com/@wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" >      
-    <a href="http://tenshou17.blogspot.com/" target="blank"><img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" >   
+    <a href="https://tutorimba.slack.com/team/UVDU8TVFH" target="blank"><img src="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&amp;logoColor=white" style="max-width:100%;"></a>
+    <a href="https://gitlab.com/wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" ></a>
+    <a href="https://www.hackerrank.com/Wisnu_D_Uzu" target="blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" ></a>
+    <a href="https://www.kaggle.com/wisnuadipradanauzu" target="blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" ></a>
+    <a href="https://teams.microsoft.com/l/dimaz-wisnu-adipradana" target="blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge"></a>
+    <a href="https://us04web.zoom.us/profile" target="blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" ></a>
+    <a href="https://medium.com/@wisnuadipradana" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" ></a>      
+    <a href="http://tenshou17.blogspot.com/" target="blank"><img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" ></a>   
 </p>
     
 
@@ -142,10 +143,10 @@ My name is Wisnu D.Uzu and graduated at ITB as a Master Degree Student from Math
  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
